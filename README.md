@@ -90,23 +90,16 @@ A simple recommendation system was created that recommends restaurants using:
 This project uses the **Yelp Open Dataset**.
 
 Dataset:
-https://business.yelp.com/data/resources/open-dataset/
+[https://business.yelp.com/data/resources/open-dataset/](https://www.kaggle.com/datasets/ranjulajayarathna/cleaned-yelp-dataset-restaurants-and-reviews/suggestions)
 
 ---
 
-## Repository
-
-GitHub Repository:
-
-https://github.com/ranavijayender/restaurant-recommendation-system
-
----
 
 ## Author
 
-**Vijayender Singh Rana**
+**Vijayender Singh**
 
-MSc Data Science, AI and Digital Business
+BSc Data Science, AI and Digital Business
 
 GISMA University of Applied Sciences
 
